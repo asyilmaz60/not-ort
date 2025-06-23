@@ -56,4 +56,5 @@ public class java101 {
 
         scanner.close();
     }
+    
 }
